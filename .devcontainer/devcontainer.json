@@ -1,5 +1,6 @@
 {
     "name": "Container",
+    "postCreateCommand": "chmod +x .devcontainer/setup.sh && .devcontainer/setup.sh",
     "customizations": {
         "vscode": {
             "settings": {

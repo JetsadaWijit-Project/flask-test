@@ -9,7 +9,7 @@
       "tag": "goodbye",
       "patterns": ["Bye", "See you later", "Goodbye"],
       "responses": ["Goodbye!", "Take care!"]
-    },
+    },A
     {
       "tag": "thanks",
       "patterns": ["Thanks", "Thank you", "That's helpful"],

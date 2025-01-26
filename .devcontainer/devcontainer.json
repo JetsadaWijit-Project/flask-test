@@ -9,7 +9,8 @@
             "extensions": [
                 "ms-azuretools.vscode-docker",
                 "alefragnani.bookmarks",
-                "eamodio.gitlens"
+                "eamodio.gitlens",
+                "ms-python.python"
             ]
         }
     }
